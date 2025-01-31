@@ -1,18 +1,18 @@
 ---
-title: "Photography"
+title: "Art"
 ---
 
-As a wizard and scholar of Middle-earth, I have been studying the magic of the natural world for centuries. Through my self-portraits, I aim to capture the essence of my own being and reflect on my own journey through time. Each photograph is a reflection of my own experiences and emotions. Through my photography, I hope to offer a glimpse into my life as a scholar and adventurer, and inspire others to reflect on their own journeys through the world.
+Here you'll find some of my personal art projects, I enjoy creating fan-art for my favorite series and movies.
 
 ::: {layout-ncol=2}
 
-![](gandalf_image_1.jpg)
+![](SelfPortrait.jpeg)
 
-![](gandalf_image_2.jpg)
+![](LukeVVader.png)
 
-![](gandalf_image_3.jpg)
+![](SeaWashOverMe.png)
 
-![](gandalf_image_4.jpg)
+![](FatherData.jpeg)
 
 :::
 
